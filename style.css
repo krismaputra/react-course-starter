@@ -1,4 +1,4 @@
-. {
+* {
   box-sizing: border-box;
 }
 
@@ -29,6 +29,7 @@ html {
   height: 600px;
   background-color: #f2eecb;
   border-radius: 4px;
+
   padding: 32px;
 }
 
